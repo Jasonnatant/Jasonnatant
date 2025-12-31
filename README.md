@@ -1,6 +1,6 @@
 # Jason Powell
 
-Computer Science graduate with interests in embedded systems, scientific computing, and physics based research.
+Computer Science graduate with interests in embedded systems, scientific computing, and physics based simulation.
 
 Currently building small projects focused on:
 - Embedded systems (Arduino / STM32)
